@@ -1,7 +1,7 @@
 
 # [ICCV 2025] Enpowering Your Pansharpening Models with Generalizability: Unified Distribution is All You Need
 
-This repository contains the complete code for our submitted review paper [*Enpowering Your Pansharpening Models with Generalizability: Unified Distribution is All You Need*](https://openaccess.thecvf.com/content/ICCV2025/html/Cui_Enpowering_Your_Pansharpening_Models_with_Generalizability_Unified_Distribution_is_All_ICCV_2025_paper.html), including implementations for UniPAN training and testing on all 12 models (GPPNN, PanNet, PNN, FusionNet, FeINFN, UAPN, SFIIN, PreMix, MSDCNN, MSDDN, LAGConv, MDCUN).
+This repository contains the complete code for our paper [*Enpowering Your Pansharpening Models with Generalizability: Unified Distribution is All You Need*](https://openaccess.thecvf.com/content/ICCV2025/html/Cui_Enpowering_Your_Pansharpening_Models_with_Generalizability_Unified_Distribution_is_All_ICCV_2025_paper.html), including implementations for UniPAN training and testing on all 12 models (GPPNN, PanNet, PNN, FusionNet, FeINFN, UAPN, SFIIN, PreMix, MSDCNN, MSDDN, LAGConv, MDCUN).
 
 <hr />
 
